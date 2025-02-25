@@ -1,0 +1,31 @@
+Townsend ionization A coefficient;
+500.0
+Townsend ionization B coefficient;
+13000.0
+Recombination rate;
+2.0e-13
+Initial ion and electron number density (m^-3);
+1e10
+Plasma pressure (Torr);
+3.0
+Ion temperature (eV);
+0.0258
+Electron Temperature (eV);
+1.0
+Ion mobility coeffcient a where mu_i=a/p;
+0.655
+Electron mobility coeffcient a where mu_e=a/p;
+37.0
+Secondary emission coefficient beta;
+0.33
+External EMF applied (V);
+1000
+Resistance in external circuit (Ohms);
+300000
+Length of discharge (m);
+0.02
+Final time (s);
+1e-3
+Initial timestep to use (s);
+1e-12
+

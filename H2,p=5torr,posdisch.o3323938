@@ -1,0 +1,8 @@
+New Program has started
+Iteration : 0 , t = 0, Timestep in use = 1e-12, Potential drop = 1000, solve time : 0s per iteration
+Iteration : 500000 , t = 2.5e-07, Timestep in use = 1e-12, Potential drop = 999.973, solve time : 0.000658162s per iteration
+DANGER: Timestep is smaller than lowest limit required at time t = 4.66944e-07
+Timestep in use: 1e-12
+Timestep limits (convection, diffusion, pos presv): 1.8084e-10 5.40541e-11 3.92191e-10
+Exiting
+

@@ -1,0 +1,17 @@
+#!/bin/sh -l
+# FILENAME: sample_jobfile
+
+#PBS -V sample_jobfile.sub
+#PBS -q jpoggie
+#PBS -l nodes=1:ppn=20
+#PBS -l walltime=100:00:00
+#PBS -N H2,p=3torr,121,3,3,2,2,2
+#PBS -n
+
+### ---------------------------------------
+### BEGINNING OF EXECUTION
+### ---------------------------------------
+
+cd $PBS_O_WORKDIR
+mpiexec -n 20 $PBS_O_WORKDIR/LDG
+

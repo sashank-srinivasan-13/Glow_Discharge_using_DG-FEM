@@ -1,0 +1,20 @@
+Number of Points;
+121
+Ion DG accuracy;
+3
+Electron DG accuracy;
+3
+Potential DG accuracy;
+2
+Minimum ion accuracy;
+2
+Minimum electron accuracy;
+2
+Choice for adaptive limiting: 0:Yes, 1:No;
+1
+Initialization: 1 new run, 2 from file;
+1
+Positivity flux? 0:No 1:Yes;
+0
+Convection Flux choice: 1:Global LF, 2:Local LF;
+2
